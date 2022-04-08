@@ -97,7 +97,7 @@ class _HomeAppState extends State<HomeApp> {
             children: [
               Center(
                 child: Text(
-                  "Cronómetro de Abel 01",
+                  "Cronómetro de Abel 02",
                   style: TextStyle(
                     color: blanco,
                     fontSize: 28.0,
